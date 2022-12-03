@@ -7,4 +7,4 @@ The Python code involves creating lists of products and specific marketing words
 
 The output is a CSV file ready to be used by the marketing department.
 
-Overall, it is a very good learning experience that I recommend to any Python beginner. I wrote a detailed article about muy experience writing this. You can check it out on my Medium: 
+Overall, it is a very good learning experience that I recommend to any Python beginner. I wrote a detailed article about muy experience writing this. You can check it out on my Medium: https://medium.com/@Gthz/generating-keywords-for-google-ads-using-python-b181c146f0c9
